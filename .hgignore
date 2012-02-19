@@ -1,0 +1,4 @@
+syntax: glob
+*.vcxproj.user
+project/vcxproj/Debug
+project/vcxproj/Release
